@@ -7,8 +7,7 @@ more complicated or more efficient firmware than current version then how we are
 how he can engage with firmware update. I think it somewhat complicated if we inform the client, you have a new firmware update and come to
 our company asap to update your device. Actually, which is not the exact way to address the problem. Then we research about the how modern
 embedded systems get their updates automatically. We found a solution but these solutions are more advance and secure. Therefore, we got the
-overall idea about what OTA programming is. Then we came up with our solution using our limited resources. But main challenge was, we had to
-add another microcontroller and memory element to store the updated firmware and the backup the currently running program.
+overall idea about what OTA programming is. Then we came up with our solution using our limited resources. But main challenge was, we had to add another microcontroller and memory element to store the updated firmware and the backup the currently running program.
 
 ## BootLoader
 
