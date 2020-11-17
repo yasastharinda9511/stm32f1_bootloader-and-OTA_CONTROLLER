@@ -18,6 +18,10 @@ the flash memory of the microcontroller through the UART1. When accessing the fl
 
 floaw chart of the flash memeory access in STM32F1
 
+![Screenshot (523)](https://user-images.githubusercontent.com/37435024/99406317-c586df00-2913-11eb-90ef-cd961db1406c.png)
+
+our booloader code is running inside a stm32f030f4. The pin diagram of the microcontroller is like below
+
 
 
 ## OTA CONTROLLER ARCHITECTURE
