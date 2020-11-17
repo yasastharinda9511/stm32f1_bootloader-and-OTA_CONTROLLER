@@ -30,8 +30,8 @@ our booloader code is running inside a stm32f030f4. The pin diagram of the micro
 
 ## How OTA works
 
-  ![Screenshot (521)](https://user-images.githubusercontent.com/37435024/99393761-cfa0e180-2903-11eb-8009-724a9dc345b3.png)
+![Screenshot (521)](https://user-images.githubusercontent.com/37435024/99393761-cfa0e180-2903-11eb-8009-724a9dc345b3.png)
 
 ## Our testbed
 
-
+![Screenshot (527)](https://user-images.githubusercontent.com/37435024/99411070-3381d500-2919-11eb-92cb-44fa51c6055a.png)
