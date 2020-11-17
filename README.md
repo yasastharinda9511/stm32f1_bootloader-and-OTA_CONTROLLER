@@ -22,7 +22,7 @@ floaw chart of the flash memeory access in STM32F1
 
 our booloader code is running inside a stm32f030f4. The pin diagram of the microcontroller is like below
 
-
+![Screenshot (525)](https://user-images.githubusercontent.com/37435024/99410341-6081b800-2918-11eb-89b3-8409c7811dbd.png)
 
 ## OTA CONTROLLER ARCHITECTURE
 
