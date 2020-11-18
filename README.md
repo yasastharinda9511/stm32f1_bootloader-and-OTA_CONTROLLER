@@ -15,7 +15,7 @@ Microcontrollers provide their own datasheet about how to access the flash memor
 note datasheet published by Stmicrocontrollers provide all the data. For stm32f103 series UART flash programming is allowed by the manufacturer. Therefore, we have to program
 the flash memory of the microcontroller through the UART1. When accessing the flash memory of the microcontroller, BOOT0 and BOOT1 pin should be 1 and 0 respectively.
 
-floaw chart of the flash memeory access in STM32F1
+flow chart of the flash memeory access in STM32F1
 
 ![Screenshot (523)](https://user-images.githubusercontent.com/37435024/99406317-c586df00-2913-11eb-90ef-cd961db1406c.png)
 
