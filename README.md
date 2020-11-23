@@ -37,7 +37,7 @@ our booloader code is running inside a stm32f030f4. The pin diagram of the micro
 
 ## PCB layouts
 
-
+![Screenshot (557)](https://user-images.githubusercontent.com/37435024/99939670-9ac3dd00-2d90-11eb-8a7f-735fc1552148.png)
 
 ## Final implementation
 
